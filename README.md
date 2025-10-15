@@ -173,7 +173,7 @@ Verified Doctor ID: dr_0x47fA12
 
 🎨 Frontend (Streamlit UI): [https://suparnnayak-workout-guide-app-1wwq7n.streamlit.app/]
 
-Frontend: (https://care-folio-eqhs.vercel.app/)p
+Frontend: [https://care-folio-eqhs.vercel.app/]
 
 🏆 “Wellness That Cares.”
 
